@@ -5,23 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edf2a1af-2db7-431a-8fc5-842cf8335343" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/campus_food.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/campus_food/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/campus_food/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/campus_food/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/campus_food/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/campus_food/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/mysql/init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/nginx/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings_dev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings_prod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/auth_middleware.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/cors_middleware.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/exception_middleware.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/log_middleware.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/performance_middleware.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1763802574114</updated>
       <workItem from="1763802612737" duration="84000" />
-      <workItem from="1763802704923" duration="5196000" />
+      <workItem from="1763802704923" duration="9764000" />
     </task>
     <servers />
   </component>
