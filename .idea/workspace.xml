@@ -5,20 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edf2a1af-2db7-431a-8fc5-842cf8335343" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/utils/middleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campus_food/celery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/settings_dev.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/settings_prod.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/auth_middleware.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/cors_middleware.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/exception_middleware.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/log_middleware.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/performance_middleware.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/canteen/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/canteen/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/chat/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/chat/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/chat/routing.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/chat/routing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/dish/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/dish/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/recommend/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/recommend/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/social/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/social/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/stall/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/stall/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/system/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/system/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user/authentication.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user/authentication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/utils/decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/utils/decorators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/utils/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/utils/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/utils/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/utils/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/utils/pagination.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/utils/pagination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/utils/response.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/utils/response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/campus_food/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/campus_food/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/campus_food/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/campus_food/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/campus_food/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/campus_food/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/campus_food/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/campus_food/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/campus_food/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/campus_food/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +50,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "poplmk"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;poplmk&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/poplmk/fanbaobao",
-    "accountId": "78d973b3-e912-4a9c-8b9d-a9d55e5202ca"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/poplmk/fanbaobao&quot;,
+    &quot;accountId&quot;: &quot;78d973b3-e912-4a9c-8b9d-a9d55e5202ca&quot;
   }
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -60,20 +74,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="campus_food" type="Python.DjangoServer" factoryName="Django server">
       <module name="campus_food" />
@@ -117,7 +131,9 @@
       <option name="presentableId" value="Default" />
       <updated>1763802574114</updated>
       <workItem from="1763802612737" duration="84000" />
-      <workItem from="1763802704923" duration="9764000" />
+      <workItem from="1763802704923" duration="17154000" />
+      <workItem from="1763830200589" duration="386000" />
+      <workItem from="1763830653613" duration="638000" />
     </task>
     <servers />
   </component>
