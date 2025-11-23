@@ -27,6 +27,7 @@ cryptography==46.0.3
 # File Processing
 Pillow==11.1.0
 python-multipart==0.0.20
+python-magic-bin==0.4.14
 
 # HTTP Client
 requests==2.32.3

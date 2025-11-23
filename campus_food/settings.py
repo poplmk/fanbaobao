@@ -236,7 +236,8 @@ DATABASES = {
         }
     }
 }
-
+# Redis默认超时时间（秒）
+REDIS_DEFAULT_TIMEOUT = 3600
 # Redis Configuration
 REDIS_URL = os.getenv('REDIS_URL', 'redis://localhost:6379/0')
 CACHES = {
@@ -344,10 +345,11 @@ WECHAT_CONFIG = {
 FILE_UPLOAD_CONFIG = {
     'MAX_IMAGE_SIZE': 5 * 1024 * 1024,  # 5MB
     'ALLOWED_IMAGE_TYPES': ['image/jpeg', 'image/png', 'image/gif'],
-    'AVATAR_UPLOAD_PATH': 'avatars/',
-    'STALL_UPLOAD_PATH': 'stall_images/',
-    'DISH_UPLOAD_PATH': 'dish_images/',
-    'RECOMMEND_UPLOAD_PATH': 'recommend_images/',
+    'AVATAR_UPLOAD_PATH': 'uploads/avatars/',
+    'STALL_UPLOAD_PATH': 'uploads/stall_images/',
+    'DISH_UPLOAD_PATH': 'uploads/dish_images/',
+    'RECOMMEND_UPLOAD_PATH': 'uploads/recommend_images/',
+    'FEEDBACK_UPLOAD_PATH': 'uploads/feedback_images/',
 }
 
 # Celery Configuration
